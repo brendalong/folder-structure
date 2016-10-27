@@ -24,7 +24,7 @@ My Project
 |	|_ bower.json
 |   |_ bower_components
 |	|_ package.json
-|	|_ Gruntfile.json
+|	|_ Gruntfile.js
 |   |_ node_modules
 | 
 |_ sass
